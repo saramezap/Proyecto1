@@ -1,0 +1,13 @@
+Condicion,Canal,Banda,Pot_Cond,Pot_Rep,ERD_ERS_%
+Mano Izquierda,C3,Mu,,,
+Mano Izquierda,C3,Beta,,,
+Mano Izquierda,C4,Mu,,,
+Mano Izquierda,C4,Beta,,,
+Mano Izquierda,Cz,Mu,,,
+Mano Izquierda,Cz,Beta,,,
+Mano Derecha,C3,Mu,2.4617383498423235e-11,,
+Mano Derecha,C3,Beta,9.486143929768118e-12,,
+Mano Derecha,C4,Mu,2.0270251879826068e-11,,
+Mano Derecha,C4,Beta,7.563260872990619e-12,,
+Mano Derecha,Cz,Mu,2.6099674738509987e-11,,
+Mano Derecha,Cz,Beta,8.002820162160273e-12,,
